@@ -16,16 +16,12 @@
 ### ▶Projective Geometry
 
 # Analysis
-### ▶ Calculus
-####   - Limit: Sequence, Series
-####   - Differentiation
-####   - Integration
-### ▶ Analysis
-####   - Real Analysis
-####   - Complex Analysis
-####   - Functional Analysis
-####   - Harmonic Analysis
-####   - Numerical Analysis: Interpolation, Extrapolation, Pathfinding
+### ▶ Real Analysis
+####   - Calculus: Limit, Differentiation, Integration
+### ▶ Complex Analysis
+### ▶ Functional Analysis
+### ▶ Harmonic Analysis
+### ▶ Numerical Analysis: Interpolation, Extrapolation, Pathfinding
 
 # Probability & Statistics
 ### ▶ Probability Theory
@@ -37,9 +33,22 @@
 
 # Discrete Mathematics
 ### ▶ Mathematical Logic
-####   - Boolean Algebra
-####   - (Model | Proof | Set | Recursion) Theory
-### ▶ Finite Automata
+####   - Boolean Algebra: Combinational | Sequential Logic
+####   - Set Theory   
+####   - Model Theory
+### ▶ Automata Theory
+####   - Finite Automata(FSM:Finite State Machine)
+####   - Pushdown Automata(PDA)
 ### ▶ Combinatorics
 ### ▶ Graph Theory
 ### ▶ Number Theory
+
+# Mathematics for Computer Science
+### ▶ Formal Language Theory
+### ▶ Information Theory
+####   - Source Coding
+####   - Algorithmic Complexity Theory
+####   - Algorithmic Information Theory
+####   - Information-Theoretic Security
+### ▶ Optimization Theory
+####   - Linear Programming

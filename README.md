@@ -1,6 +1,6 @@
 # OVERVIEW
-
-## Algebra
+##
+# Algebra
 ### ▶Abstract Algebra
 ####  - (Group | Ring | Field) Theory
 #### Arithmetic
@@ -10,12 +10,12 @@
 ####  - Linear Transformation
 ####  - Quaternions
 
-## Geometry
+# Geometry
 ### ▶Euclidean Geometry
 ### ▶Affine Geometry
 ### ▶Projective Geometry
 
-## Analysis
+# Analysis
 ### ▶Calculus
 ####  - Limit: Sequence, Series
 ####  - Differentiation
@@ -27,7 +27,7 @@
 ####  - Harmonic Analysis
 ####  - Numerical Analysis: Interpolation, Extrapolation, Pathfinding
 
-## Probability & Statistics
+# Probability & Statistics
 ### ▶Probability Theory
 ####  - Discrete Probability
 ####  - Continuous Probability
@@ -35,7 +35,7 @@
 ####  - Cooperative | Non-Cooperative, Zero-sum | Non-Zerosum, Symmetric | Asymmetric, Simultaneous | Sequential
 ### Decision Theory
 
-## Discrete Mathematics
+# Discrete Mathematics
 ### ▶Mathematical Logic
 ####  - Boolean Algebra
 ####  - (Model | Proof theory | Set | Recursion) theory

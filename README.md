@@ -14,7 +14,7 @@
 
 ## Probability & Statistics
 ### Probability Theory: Discrete | Continuous
-### Game Theory: (Cooperative | Non-Cooperative), (Zero-sum | Non-Zerosum), (Symmetric | Asymmetric), (Simultaneous | Sequential)
+### Game Theory: Cooperative | Non-Cooperative, Zero-sum | Non-Zerosum, Symmetric | Asymmetric, Simultaneous | Sequential
 ### Decision Theory: 
 
 ## Discrete Mathematics

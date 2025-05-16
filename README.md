@@ -3,27 +3,29 @@
 ## Algebra
 ### Abstract Algebra
 #### (Group | Ring | Field) Theory
+#### Arithmetic
 ### Linear Algebra
-#### Vector
+#### Vector: Dot Product, Cross Product, Norm, Projection
 #### Matrix 
 #### Linear Transformation
 #### Quaternions
 
 ## Geometry
 ### Euclidean Geometry
+### Affine Geometry
 ### Projective Geometry
 
 ## Analysis
 ### Calculus
-#### Limit
+#### Limit: Sequence, Series
 #### Differentiation
 #### Integration
 ### Analysis
 #### Real Analysis
 #### Complex Analysis
-#### Function Analysis
+#### Functional Analysis
 #### Harmonic Analysis
-#### Numerical Analysis
+#### Numerical Analysis: Interpolation, Extrapolation, Pathfinding
 
 ## Probability & Statistics
 ### Probability Theory
@@ -34,8 +36,8 @@
 ### Decision Theory
 
 ## Discrete Mathematics
-### Mathematical Logic
-### Set Theory
+### Mathematical Logic: Boolean Algebra, (Model | Proof theory | Set | Recursion) theory
+### Finite Automata
 ### Combinatorics
 ### Graph Theory
 ### Number Theory

@@ -38,7 +38,7 @@
 # Discrete Mathematics
 ### ▶ Mathematical Logic
 ####   - Boolean Algebra
-####   - (Model | Proof theory | Set | Recursion) theory
+####   - (Model | Proof | Set | Recursion) theory
 ### ▶ Finite Automata
 ### ▶ Combinatorics
 ### ▶ Graph Theory

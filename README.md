@@ -15,32 +15,34 @@
 ### 3. Projective Geometry
 
 # Analysis
-### ▶ Real Analysis
-####   - Calculus: Limit, Differentiation, Integration
-### ▶ Complex Analysis
-### ▶ Functional Analysis
-### ▶ Harmonic Analysis
-### ▶ Numerical Analysis: Interpolation, Extrapolation, Pathfinding
+### 1. Real Analysis
+>1.1 Calculus: Limit, Differentiation, Integration
+### 2. Complex Analysis
+### 3. Functional Analysis
+### 4. Harmonic Analysis
+### 5. Numerical Analysis: Interpolation, Extrapolation, Pathfinding
 
 # Probability & Statistics
-### ▶ Probability Theory
-####   - Discrete Probability
-####   - Continuous Probability
-### ▶ Game Theory
-####   - Cooperative | Non-Cooperative, Zero-sum | Non-Zerosum, Symmetric | Asymmetric, Simultaneous | Sequential
-### ▶ Decision Theory
+### 1. Probability Theory
+>1.1 Random Variable
+>1.2 Probability Distribution 
+>1.3 Limit Theorems
+>1.4 Statistical Methodology
+### 2. Game Theory
+>Cooperative | Non-Cooperative, Zero-sum | Non-Zerosum, Symmetric | Asymmetric, Simultaneous | Sequential
+### 3. Decision Theory
 
 # Discrete Mathematics
-### ▶ Mathematical Logic
-####   - Boolean Algebra: Combinational | Sequential Logic
-####   - Set Theory   
-####   - Model Theory
-### ▶ Automata Theory
-####   - Finite Automata(FSM:Finite State Machine)
-####   - Pushdown Automata(PDA)
-### ▶ Combinatorics
-### ▶ Graph Theory
-### ▶ Number Theory
+### 1. Mathematical Logic
+> Boolean Algebra
+> Set Theory   
+> Model Theory
+### 2. Automata Theory
+> Finite Automata(FSM:Finite State Machine)
+> Pushdown Automata(PDA)
+### 3. Combinatorics
+### 4. Graph Theory
+### 5. Number Theory
 
 # Mathematics for Computer Science
 ### ▶ Formal Language Theory

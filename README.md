@@ -24,32 +24,32 @@
 
 # Probability & Statistics
 ### 1. Probability Theory
->1.1 Random Variable
->1.2 Probability Distribution 
->1.3 Limit Theorems
->1.4 Statistical Methodology
+>1.1 Random Variable   
+>1.2 Probability Distribution    
+>1.3 Limit Theorems   
+>1.4 Statistical Methodology   
 ### 2. Game Theory
 >Cooperative | Non-Cooperative, Zero-sum | Non-Zerosum, Symmetric | Asymmetric, Simultaneous | Sequential
 ### 3. Decision Theory
 
 # Discrete Mathematics
 ### 1. Mathematical Logic
-> Boolean Algebra
-> Set Theory   
-> Model Theory
+> Boolean Algebra   
+> Set Theory      
+> Model Theory   
 ### 2. Automata Theory
-> Finite Automata(FSM:Finite State Machine)
-> Pushdown Automata(PDA)
+> Finite Automata(FSM:Finite State Machine)   
+> Pushdown Automata(PDA)   
 ### 3. Combinatorics
 ### 4. Graph Theory
 ### 5. Number Theory
 
 # Mathematics for Computer Science
-### ▶ Formal Language Theory
-### ▶ Information Theory
-####   - Source Coding
-####   - Algorithmic Complexity Theory
-####   - Algorithmic Information Theory
-####   - Information-Theoretic Security
-### ▶ Optimization Theory
-####   - Linear Programming
+### * Formal Language Theory
+### * Information Theory
+> Source Coding   
+> Algorithmic Complexity Theory   
+> Algorithmic Information Theory   
+> Information-Theoretic Security   
+### * Optimization Theory
+> Linear Programming

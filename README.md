@@ -3,7 +3,7 @@
 ### 1. Abstract Algebra
 >1.1. (Group | Ring | Field) Theory   
 >1.2. Arithmetic
-2. Linear Algebra
+### 2. Linear Algebra
 >2.1. Vector: Dot Product, Cross Product, Norm, Projection   
 >2.2. Matrix    
 >2.3. Linear Transformation   

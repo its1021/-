@@ -45,11 +45,11 @@
 ### 5. Number Theory
 
 # Mathematics for Computer Science
-### * Formal Language Theory
-### * Information Theory
+### *  Formal Language Theory
+### *  Information Theory
 > Source Coding   
 > Algorithmic Complexity Theory   
 > Algorithmic Information Theory   
 > Information-Theoretic Security   
-### * Optimization Theory
+### *   Optimization Theory
 > Linear Programming

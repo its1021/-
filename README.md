@@ -1,6 +1,6 @@
 # **OVERVIEW**
-> Algebra
-### ▶ Abstract Algebra
+# Algebra
+### > Abstract Algebra
 ####   - (Group | Ring | Field) Theory
 ####   - Arithmetic
 ### ▶ Linear Algebra

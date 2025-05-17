@@ -1,18 +1,18 @@
 # **OVERVIEW**
-# 1 Algebra
-### 1.1 Abstract Algebra
->1.1.1 (Group | Ring | Field) Theory   
->1.1.2 Arithmetic
-### 1.2 Linear Algebra
->1.2.1 Vector: Dot Product, Cross Product, Norm, Projection   
->1.2.2 Matrix    
->1.2.3 Linear Transformation   
->1.2.4 Quaternions   
+# Algebra ###
+1 Abstract Algebra
+>1.1 (Group | Ring | Field) Theory   
+>1.2 Arithmetic
+2 Linear Algebra
+>2.1 Vector: Dot Product, Cross Product, Norm, Projection   
+>2.2 Matrix    
+>2.3 Linear Transformation   
+>2.4 Quaternions   
 
 # Geometry
-### ▶Euclidean Geometry
-### ▶Affine Geometry
-### ▶Projective Geometry
+### 1 Euclidean Geometry
+### 2 Affine Geometry
+### 3. Projective Geometry
 
 # Analysis
 ### ▶ Real Analysis

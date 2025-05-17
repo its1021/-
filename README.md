@@ -1,13 +1,13 @@
 # **OVERVIEW**
 # 1. Algebra
 ### 1.1 Abstract Algebra
-> (Group | Ring | Field) Theory
-> Arithmetic
+* (Group | Ring | Field) Theory
+* Arithmetic
 ### 1.2 Linear Algebra
-> Vector: Dot Product, Cross Product, Norm, Projection
-> Matrix 
-> Linear Transformation
-> Quaternions
+* Vector: Dot Product, Cross Product, Norm, Projection
+* Matrix 
+* Linear Transformation
+* Quaternions
 
 # Geometry
 ### ▶Euclidean Geometry
